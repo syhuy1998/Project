@@ -9,24 +9,24 @@ public class helloWorld{
 
 		System.out.println("hello World update 2");
 
-		System.out.println("hello World update for master");
+		System.out.println("hello World update for TDT");
 		
-		System.out.println("hello World update for master version 2");
+		System.out.println("hello World update for TDT version 2");
 		
-		System.out.println("hello World update for master version 3");
+		System.out.println("hello World update for TDT version 3");
 		
-		System.out.println("hello World update for master version 4");
+		System.out.println("hello World update for TDT version 4");
 		
-		System.out.println("hello World update for master version 5");
+		System.out.println("hello World update for TDT version 5");
 	
-		System.out.println("hello World update for master version 6");
+		System.out.println("hello World update for TDT version 6");
 		
-		System.out.println("hello World update for master version 7");
+		System.out.println("hello World update for TDT version 7");
 		
-		System.out.println("hello World update for master version 8");
+		System.out.println("hello World update for TDT version 8");
 		
 		
-		System.out.println("hello World update for master version 9");
+		System.out.println("hello World update for TDT version 9");
 		
 		
 		
